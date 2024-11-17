@@ -27,4 +27,4 @@ public:
        } 
        return ans; }
 };
-/*using the linear we have to use one loop only so i use binary XOR ans using the vectorloop it become so help full */
+/*using the linear we have to use one loop only so i use binary(bitwise operater) XOR ans using the vectorloop it become so help full */
