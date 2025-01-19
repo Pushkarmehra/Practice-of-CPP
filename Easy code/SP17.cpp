@@ -40,3 +40,4 @@ int main() {
 
     return 0;
 }
+//4)	Binary search in an array ( recursive)
